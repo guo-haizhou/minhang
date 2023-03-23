@@ -8,6 +8,7 @@
 ![image](https://user-images.githubusercontent.com/75230726/226902685-eace6204-94a9-4e2f-a156-ede2549b855c.png)  
 用ADASYN算法和SMOTE算法平衡数据中的分类类别数量。  
 根据qingkuang/adasyn+smote+RF.py得到混合平衡采样后的模型性能，并比较未平衡采样的模型、用adasyn平衡采样后的模型性能以及smote平衡采样后的模型性能，用宏平均.py和权重平均.py画图如下：  
+  
 ![image](https://user-images.githubusercontent.com/75230726/226902847-212acf49-3348-414e-b178-026cb107d07d.png)  
   
 ![image](https://user-images.githubusercontent.com/75230726/226902896-00150145-02d3-498d-874f-690cbb35ecb5.png)  
