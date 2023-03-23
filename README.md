@@ -14,7 +14,7 @@
    
 根据qingkuang/adasyn+smote+RF.py的性能与对照文献“基于非线性赋权XGBoost算法的航班延误分类预测”的性能做比较，用性能柱状图.py画图如下：  
   
-![image](https://user-images.githubusercontent.com/75230726/226903310-ef8efd1a-f69e-4dd0-92a9-402d7d5eee71.png)  
+          ![image](https://user-images.githubusercontent.com/75230726/226903310-ef8efd1a-f69e-4dd0-92a9-402d7d5eee71.png)  
 
 
 
